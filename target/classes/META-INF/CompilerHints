@@ -1,0 +1,10 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,jmh/benchmark/TestBenchMark$MazeState.loadMaze
+inline,jmh/benchmark/TestBenchMark.loadMazeBenchmark
+inline,jmh/benchmark/TestBenchMark.solveWithBFSSolverBenchmark
+inline,jmh/benchmark/TestBenchMark.solveWithRightHandBenchmark
+inline,jmh/benchmark/TestBenchMark.solveWithTremauxBenchmark
